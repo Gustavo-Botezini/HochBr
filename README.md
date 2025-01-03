@@ -1,5 +1,5 @@
-# 💫 About Me:
-Opa, bão?<br><br>
+# Opa, bão?:
+<br><br>
 
 
 ## 🌐 Socials:
