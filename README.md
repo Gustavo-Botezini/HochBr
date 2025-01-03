@@ -16,6 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HochBr&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HochBr&icon=2&color=0)](https://visitcount.itsvg.in)
-
+<div>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=HochBr&icon=2&color=0)](https://visitcount.itsvg.in">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
