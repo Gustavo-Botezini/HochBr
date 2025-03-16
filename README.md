@@ -1,6 +1,6 @@
 # Opa, bão?
 <br><br>
-Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul
+Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e DBA em treinamento :)
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-botezini-0144a32b6) 
