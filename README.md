@@ -4,6 +4,8 @@ Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-botezini-0144a32b6) 
+
+## Badges
 ![google-ai-essentials](https://github.com/user-attachments/assets/3989382e-ed7a-4e66-9e59-e04ed0fda7d8)
 
 # 💻 Tech Stack:
