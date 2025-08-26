@@ -6,7 +6,10 @@ Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-botezini-0144a32b6) 
 
 ## 🏆 Badges:
-![google-ai-essentials](https://github.com/user-attachments/assets/3989382e-ed7a-4e66-9e59-e04ed0fda7d8)
+<a href="https://www.credly.com/badges/f417ce01-f91e-4cde-a3bc-154e5d188329/public_url">
+  <img src="./google-ai-essentials-v1.png" width="105"/>
+</a>
+
 <a href="https://www.credly.com/badges/80c4c20b-901a-4bd8-9282-839b9fa41f14/public_url">
   <img src="./google-cybersecurity-professional-certificate-v2.png" width="105"/>
 </a>
