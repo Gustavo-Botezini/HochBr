@@ -7,7 +7,10 @@ Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e
 
 ## 🏆 Badges:
 ![google-ai-essentials](https://github.com/user-attachments/assets/3989382e-ed7a-4e66-9e59-e04ed0fda7d8)
-[![Coursera Badge](./google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/80c4c20b-901a-4bd8-9282-839b9fa41f14/public_url)
+<a href="https://www.credly.com/badges/80c4c20b-901a-4bd8-9282-839b9fa41f14/public_url">
+  <img src="./google-cybersecurity-professional-certificate-v2.png" width="105"/>
+</a>
+
 
 
 # 💻 Tech Stack:
